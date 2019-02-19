@@ -1,0 +1,8 @@
+D:\Misc\instamojo-csharp-master\instamojo-csharp-master\InstamojoImpl\bin\Debug\InstamojoImpl.exe.config
+D:\Misc\instamojo-csharp-master\instamojo-csharp-master\InstamojoImpl\bin\Debug\InstamojoImpl.exe
+D:\Misc\instamojo-csharp-master\instamojo-csharp-master\InstamojoImpl\bin\Debug\InstamojoImpl.pdb
+D:\Misc\instamojo-csharp-master\instamojo-csharp-master\InstamojoImpl\bin\Debug\InstamojoAPI.dll
+D:\Misc\instamojo-csharp-master\instamojo-csharp-master\InstamojoImpl\obj\Debug\InstamojoImpl.csprojResolveAssemblyReference.cache
+D:\Misc\instamojo-csharp-master\instamojo-csharp-master\InstamojoImpl\obj\Debug\InstamojoImpl.csproj.CoreCompileInputs.cache
+D:\Misc\instamojo-csharp-master\instamojo-csharp-master\InstamojoImpl\obj\Debug\InstamojoImpl.exe
+D:\Misc\instamojo-csharp-master\instamojo-csharp-master\InstamojoImpl\obj\Debug\InstamojoImpl.pdb

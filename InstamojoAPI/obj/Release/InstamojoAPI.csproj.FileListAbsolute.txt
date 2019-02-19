@@ -1,0 +1,4 @@
+D:\Misc\instamojo-csharp-master\instamojo-csharp-master\InstamojoAPI\bin\Release\InstamojoAPI.dll
+D:\Misc\instamojo-csharp-master\instamojo-csharp-master\InstamojoAPI\obj\Release\InstamojoAPI.csprojResolveAssemblyReference.cache
+D:\Misc\instamojo-csharp-master\instamojo-csharp-master\InstamojoAPI\obj\Release\InstamojoAPI.csproj.CoreCompileInputs.cache
+D:\Misc\instamojo-csharp-master\instamojo-csharp-master\InstamojoAPI\obj\Release\InstamojoAPI.dll
